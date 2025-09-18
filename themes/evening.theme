@@ -1,0 +1,4 @@
+# Vim "evening" colorscheme (fallback colors approximate)
+default_foreground=#f8f8ff
+default_background=#202038
+colorscheme=evening

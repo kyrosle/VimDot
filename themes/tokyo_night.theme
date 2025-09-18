@@ -1,0 +1,4 @@
+# Tokyo Night inspired palette
+default_foreground=#c0caf5
+default_background=#1a1b26
+colorscheme=tokyonight

@@ -1,0 +1,4 @@
+# Vim "pablo" colorscheme (fallback colors approximate)
+default_foreground=#f0e7d0
+default_background=#1b1f2a
+colorscheme=pablo

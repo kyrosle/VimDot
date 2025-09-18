@@ -1,0 +1,4 @@
+# Vim "morning" colorscheme (fallback colors approximate)
+default_foreground=#000000
+default_background=#fff6d5
+colorscheme=morning

@@ -1,0 +1,4 @@
+# Vim "murphy" colorscheme (fallback colors approximate)
+default_foreground=#f0f0f0
+default_background=#242424
+colorscheme=murphy

@@ -1,0 +1,4 @@
+# Gruvbox colorscheme (fallback colors approximate)
+default_foreground=#ebdbb2
+default_background=#282828
+colorscheme=gruvbox

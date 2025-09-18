@@ -1,0 +1,4 @@
+# Vim "koehler" colorscheme (fallback colors approximate)
+default_foreground=#ffffff
+default_background=#1c1c1c
+colorscheme=koehler

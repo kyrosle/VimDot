@@ -1,0 +1,4 @@
+# Vim "blue" colorscheme (fallback colors approximate)
+default_foreground=#dee7ff
+default_background=#000087
+colorscheme=blue

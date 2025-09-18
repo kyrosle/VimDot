@@ -1,0 +1,4 @@
+# "dalek" colorscheme (fallback colors approximate)
+default_foreground=#ffd7ff
+default_background=#21004a
+colorscheme=dalek

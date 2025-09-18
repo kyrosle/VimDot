@@ -1,0 +1,8 @@
+[configuration]
+entry_symbol = "nvim_embed_library_init"
+compatibility_minimum = "4.2"
+
+[libraries]
+linux.debug.x86_64 = "res://addons/nvim_embed/bin/libnvim_embed.linux.template_debug.x86_64.so"
+linux.release.x86_64 = "res://addons/nvim_embed/bin/libnvim_embed.linux.template_release.x86_64.so"
+linux.editor.x86_64 = "res://addons/nvim_embed/bin/libnvim_embed.linux.editor.dev.x86_64.so"

@@ -1,0 +1,4 @@
+# Vim "elflord" colorscheme (fallback colors approximate)
+default_foreground=#d9ffd9
+default_background=#000000
+colorscheme=elflord

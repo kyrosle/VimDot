@@ -1,0 +1,4 @@
+# Vim "lunaperche" colorscheme (fallback colors approximate)
+default_foreground=#e0def4
+default_background=#232136
+colorscheme=lunaperche

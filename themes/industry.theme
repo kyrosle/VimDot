@@ -1,0 +1,4 @@
+# Vim "industry" colorscheme (fallback colors approximate)
+default_foreground=#f0f0f0
+default_background=#2f2f2f
+colorscheme=industry

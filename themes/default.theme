@@ -1,0 +1,4 @@
+# Vim default colors
+default_foreground=#ffffff
+default_background=#14161B
+colorscheme=default

@@ -1,0 +1,4 @@
+# Nord theme palette
+default_foreground=#d8dee9
+default_background=#2e3440
+colorscheme=nord

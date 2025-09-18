@@ -1,0 +1,4 @@
+# Vim "habamax" colorscheme (fallback colors approximate)
+default_foreground=#d8d8d8
+default_background=#101418
+colorscheme=habamax

@@ -1,4 +1,7 @@
+<img src="./assets/Icon 1024v2.png" width="150px" alt="Project Logo" />
+
 # Neovim Embed for Godot
+---
 
 Bring the full Neovim experience directly into the Godot editor. This addon exposes a main-screen tab that hosts a `--embed` Neovim session, letting you keep your modal editing habits, plugins, and colorschemes while developing scenes and scripts.
 

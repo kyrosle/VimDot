@@ -1417,7 +1417,7 @@ bool NvimPanel::_load_theme_definition(const String &p_theme_name) {
 		reduced = "default";
 	}
 
-	const String base_path = "res://addons/nvim_embed/themes/";
+	const String base_path = "res://addons/VimDot/themes/";
 	PackedStringArray candidates;
 	candidates.push_back(base_path + reduced + ".theme");
 	if (reduced != "default") {
@@ -1683,7 +1683,7 @@ void NvimPanel::reload_settings() {
 }
 
 String NvimPanel::_get_default_font_path() const {
-	return "res://addons/nvim_embed/assets/fonts/jetbrains/JetBrainsMonoNerdFontMono-Regular.ttf";
+	return "res://addons/VimDot/assets/fonts/jetbrains/JetBrainsMonoNerdFontMono-Regular.ttf";
 }
 
 bool NvimPanel::_send_nvim_input(const String &p_keys) {

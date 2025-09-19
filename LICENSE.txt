@@ -3,7 +3,7 @@ Neovim Embed for Godot - Licensing
 
 This plugin is distributed under the terms of the MIT License. The full
 license text is reproduced below. Assets and source files inside
-`addons/nvim_embed/` fall under this license unless stated otherwise.
+`addons/VimDot/` fall under this license unless stated otherwise.
 
 ```
 MIT License
@@ -32,7 +32,7 @@ SOFTWARE.
 Third-Party Components
 ----------------------
 
-The directory `addons/nvim_embed/thirdparty/mpack/` contains the MPack library
+The directory `addons/VimDot/thirdparty/mpack/` contains the MPack library
 and accompanying headers. MPack is licensed under the MIT License by its
 original authors. See the header comments within that directory for details.
 

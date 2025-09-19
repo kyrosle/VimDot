@@ -1,7 +1,4 @@
-<img src="./assets/Icon 1024.png" width="150px" alt="Project Logo" />
-
 # Neovim Embed for Godot
----
 
 Bring the full Neovim experience directly into the Godot editor. This addon exposes a main-screen tab that hosts a `--embed` Neovim session, letting you keep your modal editing habits, plugins, and colorschemes while developing scenes and scripts.
 
@@ -16,7 +13,7 @@ Bring the full Neovim experience directly into the Godot editor. This addon expo
 
 ## Installation
 
-1. Copy `addons/nvim_embed/` into your Godot project.
+1. Copy `addons/VimDot/` into your Godot project.
 2. Enable the plugin in **Project > Project Settings > Plugins**.
 3. Ensure `nvim` is available on your PATH (or adjust the command in project settings).
 
@@ -33,7 +30,7 @@ Bring the full Neovim experience directly into the Godot editor. This addon expo
 
 ## Theming
 
-Theme descriptors live under `addons/nvim_embed/themes/` and look like:
+Theme descriptors live under `addons/VimDot/themes/` and look like:
 
 ```
 # Tokyonight (Mocha)
@@ -58,5 +55,5 @@ You can create new `.theme` files to match custom colorschemes or distributions 
 
 ## License
 
-- Neovim Embed plugin code: MIT License (see `addons/nvim_embed/LICENSE.txt`).
-- MPack library (MessagePack helper) in `addons/nvim_embed/thirdparty/mpack/`: MIT License by its original authors.
+- Neovim Embed plugin code: MIT License (see `addons/VimDot/LICENSE.txt`).
+- MPack library (MessagePack helper) in `addons/VimDot/thirdparty/mpack/`: MIT License by its original authors.

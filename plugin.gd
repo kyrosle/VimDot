@@ -34,7 +34,7 @@ func _ensure_settings() -> void:
 	changed = _ensure_setting("neovim/embed/autostart", true) or changed
 	changed = _ensure_setting("neovim/embed/command", "nvim") or changed
 	changed = _ensure_setting("neovim/embed/extra_args", PackedStringArray()) or changed
-	changed = _ensure_setting("neovim/embed/font_path", "res://addons/nvim_embed/assets/fonts/jetbrains/JetBrainsMonoNerdFontMono-Regular.ttf") or changed
+	changed = _ensure_setting("neovim/embed/font_path", "res://addons/VimDot/assets/fonts/jetbrains/JetBrainsMonoNerdFontMono-Regular.ttf") or changed
 	changed = _ensure_setting("neovim/embed/font_size", 14) or changed
 	changed = _ensure_setting("neovim/embed/hide_script_editor_experimental", false) or changed
 	changed = _ensure_setting("neovim/embed/debug_logging", false) or changed
